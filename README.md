@@ -1,31 +1,78 @@
-# Create React App
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ProResume Maker</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 2rem;
+    }
 
-This directory is a brief example of a [Create React App](https://github.com/facebook/create-react-app) site that can be deployed to Vercel with zero configuration.
+    h1 {
+      font-size: 2.5rem;
+    }
 
-## Deploy Your Own
+    h2 {
+      font-size: 2rem;
+    }
 
-Deploy your own Create React App project with Vercel.
+    h3 {
+      font-size: 1.8rem;
+    }
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/create-react-app&template=create-react-app)
+    p {
+      font-size: 1.2rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>ProResume Maker</h1>
+  
+  <p>
+    ProResume Maker is a mobile app designed to help you create professional resumes quickly and easily. With its intuitive interface and a wide range of customizable templates, you can craft a standout resume tailored to your needs.
+  </p>
 
-_Live Example: https://create-react-template.vercel.app/_
+  <h2>Features</h2>
+  
+  <ul>
+    <li>Create customized resumes with ease.</li>
+    <li>Choose from a variety of professional templates.</li>
+    <li>Input your work experience, skills, education, and more.</li>
+    <li>Preview and edit your resume before finalizing.</li>
+    <li>Generate a well-formatted, downloadable resume document.</li>
+  </ul>
 
-## Available Scripts
+  <h2>Getting Started</h2>
 
-In the project directory, you can run:
+  <p>
+    To get started with ProResume Maker, follow these steps:
+  </p>
 
-### `npm start`
+  <ol>
+    <li>Clone the repository: <code>git clone https://github.com/your-username/proresume-maker.git</code></li>
+    <li>Install the required dependencies: <code>npm install</code></li>
+    <li>Run the app locally: <code>npm start</code></li>
+  </ol>
 
-Runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  <h2>Contributing</h2>
 
-The page will reload when you make changes. You may also see any lint errors in the console.
+  <p>
+    Contributions are welcome! If you have any ideas, bug fixes, or feature suggestions, please submit a pull request. Make sure to follow the project's coding style and include relevant tests.
+  </p>
 
-### `npm test`
+  <h2>License</h2>
 
-Launches the test runner in the interactive watch mode. See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  <p>
+    This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for more details.
+  </p>
 
-### `npm run build`
+  <h2>Contact</h2>
 
-Builds the app for production to the `build` folder.
-
-It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes.
+  <p>
+    For any inquiries or support, please contact us at <a href="mailto:contact@proresume-maker.com">contact@proresume-maker.com</a>.
+  </p>
+</body>
+</html>
