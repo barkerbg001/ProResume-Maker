@@ -24,7 +24,7 @@
   </p>
 
   <ol>
-    <li>Clone the repository: <code>git clone https://github.com/your-username/proresume-maker.git</code></li>
+    <li>Clone the repository: <code>git clone https://github.com/barkerbg001/ProResume-Maker.git</code></li>
     <li>Install the required dependencies: <code>npm install</code></li>
     <li>Run the app locally: <code>npm start</code></li>
   </ol>
